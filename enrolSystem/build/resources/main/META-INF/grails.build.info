@@ -1,0 +1,6 @@
+#Thu, 08 Dec 2016 11:45:49 +0000
+
+grails.env=development
+info.app.version=0.1
+info.app.grailsVersion=3.2.3
+info.app.name=enrolSystem
